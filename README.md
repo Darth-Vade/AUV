@@ -1,3 +1,4 @@
 # AUV
 Autonomous Under Water Vehicle 
-The Code Used in the Project are not listed as it has been planned for commercialising 
+
+The code used in the project are not listed as the project has been planned for commercialising in future
